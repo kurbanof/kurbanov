@@ -128,7 +128,7 @@
       "title": "Учёт и отчёты без таблиц",
       "group": "automation",
       "status": "",
-      "link": "",
+      "link": "https://kurbanof.github.io/gofra/",
       "image": "",
       "example": true,
       "desc": "Форма ввода данных, автоматические итоги и выгрузка вместо ручного заполнения таблиц.",
@@ -139,10 +139,10 @@
       ]
     },
     {
-      "title": "Лендинг для малого бизнеса",
-      "group": "sites",
+      "title": "Тренажер слепой печати",
+      "group": "learning",
       "status": "",
-      "link": "",
+      "link": "https://kurbanof.github.io/TypeLit/",
       "image": "",
       "example": true,
       "desc": "Одностраничный сайт с описанием услуг и формой заявки. Быстро открывается на телефоне.",
